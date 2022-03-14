@@ -1,0 +1,6 @@
+{
+    "presets": ["@babel/preset-env"],
+    "plugins": [
+        ["@babel/plugin-transform-runtime", { "regenerator": true } ] // para poder usar async y await
+    ]
+}
