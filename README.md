@@ -1,9 +1,8 @@
 # AppProductos
 
-Esta App es una aplicacion web de tipo SPA (Single Page Aplication)
-creada utilizando JavaScript puro (no frameworks) en la misma podremos
-realizar un CRUD sencillo agregando, eliminando, editando y listando productos.
-Esta app fue realizada utilizando implementando componentes creados con JavaScript puro. 
+Esta App es una aplicación web de tipo SPA (Single Page Aplication) creada utilizando JavaScript puro (no frameworks) 
+en la misma podremos realizar un CRUD sencillo agregando, eliminando, editando y listando productos. 
+Esta app fue llevada a cabo implementando componentes generados con JavaScript puro. 
 
 ## Las tecnologias utilizadas en esta practica son las siguientes:
 
